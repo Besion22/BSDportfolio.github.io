@@ -2,23 +2,23 @@ vCard - Personal Portfolio
 
 # sidebar
 
-alt = Richard hanrick
-Richard hanrick
+alt = Besioni Demko
+Besioni Demko
 Web developer
 
 Show Contacts
 
 Email
-richard@example.com
+besion7@gmail.com
 
 Phone
-+1 (213) 352-2795
++355676187989
 
 Birthday
-June 23, 1982
+May 22, 2002
 
 Location
-Sacramento, California, USA
+Korce, Albania
 
 # navbar
 
